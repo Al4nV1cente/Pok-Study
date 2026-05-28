@@ -1,0 +1,6 @@
+{
+  "name": "StudyDex",
+  "description": "A beautiful Pokébola-themed gamified study timer application that allows you to study, capture Pokémon via the PokéAPI, train your team, and complete study sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
